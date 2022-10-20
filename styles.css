@@ -10,13 +10,12 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.col {border: 1px solid black;
+.col {
     flex: 1;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    background-color: darkred;
 }
 
 .col h2 {
